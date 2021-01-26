@@ -3,7 +3,3 @@ Git is free software distributed under the GPL.
 Git tracks changes.
 Creating a new branch is quick and simple.
 fast-merge123
-123
-456
-abc
-def
